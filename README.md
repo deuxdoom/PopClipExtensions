@@ -5,7 +5,11 @@
 
 - Naver Search
 
+- Naver Dictionary
+
 - Daum Search
+
+- Daum Dictionary
 
 - Wikipedia Korean
 
