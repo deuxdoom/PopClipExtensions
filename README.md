@@ -1,8 +1,8 @@
 #PopClip Extensions
 
 - Google URL Shortener
--  Naver Search
--  Naver Dictionary
+- Naver Search
+- Naver Dictionary
 - Daum Search
 - Daum Dictionary
 - Daum Map
