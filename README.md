@@ -11,7 +11,7 @@
   
 *Other Extensions are*	[*here*](http://pilotmoon.com/popclip/extensions)
 
-<br/> 
+ 
 
 `Collaborators` : [Darimee](http://github.com/Darimee)
 
