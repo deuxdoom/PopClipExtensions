@@ -1,5 +1,5 @@
 #PopClip Extensions
-<br/>
+
 - Google URL Shortener
 -  Naver Search
 -  Naver Dictionary
