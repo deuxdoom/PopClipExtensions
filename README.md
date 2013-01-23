@@ -12,9 +12,12 @@
 *Other Extensions are*	[*here*](http://pilotmoon.com/popclip/extensions)
 
 <br/> 
-__Contact__ : [Site](http://deuxdoom.net "http://deuxdoom.net")  [Email](deuxdoom@gmail.com "deuxdoom@gmail.com")  [App.Net](http://alpha.app.net/deuxdoom "http://alpha.app.net/deuxdoom")
 
 `Collaborators` : [Darimee](http://github.com/Darimee)
+
+`Contact` : [Site](http://deuxdoom.net "http://deuxdoom.net")  [Email](deuxdoom@gmail.com "deuxdoom@gmail.com")  [App.Net](http://alpha.app.net/deuxdoom "http://alpha.app.net/deuxdoom")
+
+
     
 ***
 
