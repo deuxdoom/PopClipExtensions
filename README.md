@@ -1,30 +1,24 @@
 #PopClip Extensions
-
-
+<br/>
 - Google URL Shortener
-
-- Naver Search
-
-- Naver Dictionary
-
+-  Naver Search
+-  Naver Dictionary
 - Daum Search
-
 - Daum Dictionary
-
 - Daum Map
-
 - Wikipedia Korean
 
-=
+  
+*Other Extensions are*	[*here*](http://pilotmoon.com/popclip/extensions)
 
-   Contact : deuxdoom@gmail.com / http://deuxdoom.net
+<br/> **Contact** : [Email](deuxdoom@gmail.com "deuxdoom@gmail.com") , [App.Net](http://alpha.app.net/deuxdoom "http://alpha.app.net/deuxdoom") , [Site](http://deuxdoom.net "http://deuxdoom.net")
+
     
+***
 
--
+`If you have a trouble with install Extension, Just type under command in Terminal.`
 
-######If you have a trouble with install Extension, Just type under command in Terminal.
-
->defaults write com.pilotmoon.popclip LoadUnsignedExtensions -bool YES
+	defaults write com.pilotmoon.popclip LoadUnsignedExtensions -bool YES
 
 
 
